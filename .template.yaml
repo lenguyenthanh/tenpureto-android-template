@@ -1,0 +1,6 @@
+variables:
+  Project name: tenpureto-android-template
+  Organization: org.organization
+features:
+- android:
+    description: Basic template to kickstart Android projects
